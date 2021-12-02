@@ -3,8 +3,6 @@ title: K-AFEGORY
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
-baseurl: "ga_blog"
-url: ""
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
@@ -30,3 +28,4 @@ highlighter: rouge
 
 sass:
   style: :compressed
+gems: jekyll-seo-tag
