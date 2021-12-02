@@ -30,12 +30,3 @@ highlighter: rouge
 
 sass:
   style: :compressed
-
-<<<<<<< HEAD
-=======
-# Build settings
-theme: jekyll-theme-slate
->>>>>>> 5da32577df9fe68260bb819f5e83749b9b55b1ba
-plugins:
-  - jekyll-feed
-  - jekyll-soopr-seo-tag
