@@ -13,4 +13,23 @@ project_entries:
     url: https://github.com/whatsbirddd/K-afegory/commit/98e40eff38609ff04e8fa352bd9b6634b627eaf3
     desc: update css design and revise html
 
-  
+  - title: Update README.md (2021.12.01)
+    url: https://github.com/whatsbirddd/K-afegory/commit/b398686abe2dc533530320c46a0ae682cef2ce77
+    desc: readme update
+
+  - title: ADD THIRD PAGE, FOURTH PAGE (2021.11.28)
+    url: https://github.com/whatsbirddd/K-afegory/commit/885510d9a5fbafc50cb9ebb153705df6ca353caf
+    desc: add view page and module page
+
+  - title: Add Function - prevent access (2021.11.26)
+    url: https://github.com/whatsbirddd/K-afegory/commit/25ff623205ed8fe4c3f79443d297fc79737bdf2c
+    desc: add function 
+
+  - title: Resolve docs file error (2021.11.25)
+    url: https://github.com/whatsbirddd/K-afegory/commit/9cbcb2818ce195392d7e60ac3fbd1db4c42b76b5
+    desc: resolve docs file error
+
+  - title: Add Docs finally (2021.11.24)
+    url: https://github.com/whatsbirddd/K-afegory/commit/f36ecea57a056f92ea8f9ab2cd2496afdf1f8efe
+    desc: add docs file
+
