@@ -1,0 +1,35 @@
+navbar_entries:
+  - title: About
+    url: about
+
+  - title: Features
+    url: features
+
+  - title: Contact Us
+    url: contactus
+
+project_entries:
+  - title: Update README.md (2021.12.01)
+    url: post1
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Post 2
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Post 3
+    url: overview-post
+    desc: You can control visibility from _config.yml file
+
+  - title: Post 4
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
+
+  - title: Post 5
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+
+  - title: Post 6
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
