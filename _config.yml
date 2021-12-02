@@ -27,4 +27,5 @@ highlighter: rouge
 
 sass:
   style: :compressed
+
 gems: jekyll-seo-tag
