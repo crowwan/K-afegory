@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Update README.md (2021.12.01)
-    url: post1
+    url: https://github.com/whatsbirddd/K-afegory/commit/b398686abe2dc533530320c46a0ae682cef2ce77
     desc: This is an example project, configured in _data/home.yml
 
   - title: Post 2
